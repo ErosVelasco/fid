@@ -1,2 +1,4 @@
-# fid
-For 2026 Spring Semester Fundamentals of Interactive Design
+# This repo is for DIG2500 Fundamentals of Interactive Design.
+Putting more description
+3 Websites
+etc.
